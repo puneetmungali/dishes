@@ -1,2 +1,2 @@
 this change was done directly on the github site.. this situation can also arise when someone else pushed new files to github.
-In this case your local repository will be different from the remote github repository.
+In this case your local repository(in git) will be different from the remote github repository.
