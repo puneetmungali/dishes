@@ -1,2 +1,3 @@
 this change was done directly on the github site.. this situation can also arise when someone else pushed new files to github.
-In this case your local repository(in system) will be different from the remote github repository.
+In this case your local repository(in system git) will be different from the remote github repository.
+
